@@ -4,7 +4,7 @@ School project made in APEX using PL/SQL. The goal of my project was to build a 
 ERD Diagram
 ![po_normalizacji (1)](https://github.com/user-attachments/assets/49c08f0a-c44e-46b7-bc17-6ab9946136f0)
 
-UML Diagram. 
+UML Diagram
 ![image](https://github.com/user-attachments/assets/f0330c7f-6562-4c14-ac91-6c5b95c93366)
 
 
